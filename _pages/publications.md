@@ -9,8 +9,8 @@ author_profile: true
   You can find my publications on <u><a href="https://scholar.google.com/citations?hl=en&user=Uzv1f1oAAAAJ&view_op=list_works&sortby=pubdate">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
