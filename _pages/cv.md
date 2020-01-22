@@ -55,9 +55,8 @@ Awards
 
 Publications
 ======
-#<ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=Uzv1f1oAAAAJ) for my publications. 
 
 Service
 ======
