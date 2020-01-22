@@ -60,6 +60,6 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=Uzv1f1oAAAA
 
 Service
 ======
-* Peer Reviewer, {\em Chandra} Cycle 20 Peer Review, 2018
+* Peer Reviewer, Chandra Cycle 20 Peer Review, 2018
 * Organizer, Cosmology Seminar at Yale University, 2012--2014
-*
+
