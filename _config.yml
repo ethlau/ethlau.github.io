@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Erwin Tin-Hay Lau"
 title_separator          : "-"
-name                     : &name "Erwin Tin-Hay Lay"
+name                     : &name "Erwin Tin-Hay Lau"
 description              : &description "Postdoctoral Associate at the University of Miami"
 url                      : https://ethlau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
