@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Click [here](/files/CV.pdf) for my full CV in PDF. 
+
 Education
 ======
 * B.S. in Astronomy and Astrophysics, University of Michigan-Ann Arbor, 2004
