@@ -48,8 +48,7 @@ Research Interests
 * Computational and theoretical modeling of galaxy clusters and their observational signatures in X-ray and microwave
 * Statistical analysis of large data sets in simulations and observations
 * Astronomical software development
-*
-*
+
 Awards
 =====
 * XSEDE Computing Research Allocation TG-AST190003, Simulating Cosmic Weather in Galaxy Clusters, 45k node hours
@@ -64,3 +63,4 @@ Service
 ======
 * Peer Reviewer, {\em Chandra} Cycle 20 Peer Review, 2018
 * Organizer, Cosmology Seminar at Yale University, 2012--2014
+*
