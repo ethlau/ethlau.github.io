@@ -20,7 +20,11 @@ Education
 
 Work experience
 ======
-* 2018-current: Postdoctoral Associate
+* 2021-current Visiting Scientist
+  * Smithsonian Astrophysical Observatory
+  * Supervisor: Akos Bogdan
+
+* 2018-2020 Postdoctoral Associate
   * University of Miami, Department of Physics
   * Supervisor: Nico Cappelluti
 
