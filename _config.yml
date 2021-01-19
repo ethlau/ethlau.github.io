@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Erwin T. Lau"
   avatar           : "Erwin_lau.png"
-  bio              : "Postdoc at the University of Miami"
-  location         : "Coral Gables, FL, USA"
+  bio              : "Visiting Scientist at Smithsonian Astrophysical Observatory"
+  location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Uzv1f1oAAAAJ"
-  email            : "erwin.lau@miami.edu"
+  email            : "erwin.lau@cfa.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : "ethlau"
