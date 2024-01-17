@@ -57,6 +57,7 @@ Research Interests
 
 Awards
 =====
+* Chandra Archival Proposal, Cycle 25, ”Constraining S 8 with X-ray Angular Power Spectrum of Galaxy Clusters”, USD 81k
 * XSEDE Computing Research Allocation TG-AST190003, Simulating Cosmic Weather in Galaxy Clusters, 45k node hours
 
 Publications
