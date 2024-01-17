@@ -24,7 +24,7 @@ Work experience
   * Smithsonian Astrophysical Observatory
   * Supervisor: Akos Bogdan
 
-* 2018-2020 Postdoctoral Associate
+* 2018-current Postdoctoral Associate
   * University of Miami, Department of Physics
   * Supervisor: Nico Cappelluti
 
