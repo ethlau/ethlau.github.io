@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](/files/CV.pdf) for my full CV in PDF (last updated: 2025/04/02). 
+Click [here](/files/CV.pdf) for my full CV in PDF (last updated: 2025/05/28). 
 
 Education
 ======
