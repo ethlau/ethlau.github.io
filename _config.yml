@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erwin Tin-Hay Lau"
 title_separator          : "-"
 name                     : &name "Erwin Tin-Hay Lau"
-description              : &description "Postdoctoral Associate at the University of Miami"
+description              : &description "Researcher at Nara Women's University"
 url                      : https://ethlau.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ethlau/ethlau.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Erwin T. Lau"
   avatar           : "Erwin_lau.png"
-  bio              : "Visiting Scientist at Smithsonian Astrophysical Observatory"
-  location         : "Cambridge, MA, USA"
+  bio              : "Researcher at Nara Women's University"
+  location         : "Nara, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Uzv1f1oAAAAJ"
