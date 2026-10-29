@@ -1,0 +1,192 @@
+# CV data in RenderCV format, rendered on /cv/.
+# Edit this file to update the CV page. The PDF linked from the page is files/CV.pdf.
+cv:
+  name: Erwin T. Lau
+  label: Researcher, Nara Women's University
+  location: Nara, Japan
+  summary: Computational and theoretical astrophysicist working on baryonic feedback in galaxy groups and clusters, and small-scale structure as a cosmological probe.
+
+  sections:
+    Education:
+      - institution: University of Chicago
+        location: Chicago, IL, USA
+        area: Astronomy & Astrophysics
+        studyType: Ph.D.
+        date: 2010-08
+      - institution: University of Chicago
+        location: Chicago, IL, USA
+        area: Astronomy & Astrophysics
+        studyType: M.S.
+        date: 2006-03
+      - institution: University of Michigan
+        location: Ann Arbor, MI, USA
+        area: Astronomy and General Physics
+        studyType: B.S.
+        date: 2004-05
+      - institution: University of Michigan
+        location: Ann Arbor, MI, USA
+        area: Engineering Physics
+        studyType: B.S.E.
+        date: 2004-05
+
+    Experience:
+      - company: Nara Women's University
+        position: Researcher
+        location: Nara, Japan
+        start_date: 2025-08
+        summary: "Sponsor: Naomi Ota"
+      - company: Center for Astrophysics | Harvard & Smithsonian
+        position: Visiting Scientist
+        location: Cambridge, MA, USA
+        start_date: 2021-01
+        end_date: 2025-07
+        summary: "Host: Ákos Bogdán"
+      - company: University of Miami, Department of Physics
+        position: Postdoctoral Associate
+        location: Coral Gables, FL, USA
+        start_date: 2018-01
+        end_date: 2020-12
+        summary: "Sponsor: Nico Cappelluti"
+      - company: Yale University, Department of Physics, Yale Center for Astronomy & Astrophysics
+        position: Associate Research Scientist
+        location: New Haven, CT, USA
+        start_date: 2015-09
+        end_date: 2017-10
+        summary: "Advisor: Daisuke Nagai"
+      - company: Yale University, Department of Physics, Yale Center for Astronomy & Astrophysics
+        position: Postdoctoral Associate
+        location: New Haven, CT, USA
+        start_date: 2011-09
+        end_date: 2015-08
+        summary: "Advisor: Daisuke Nagai"
+      - company: Shanghai Astronomical Observatory, Key Laboratory for Research in Galaxies and Cosmology
+        position: Postdoctoral Fellow
+        location: Shanghai, China
+        start_date: 2010-09
+        end_date: 2011-08
+        summary: "Advisor: Xiaohu Yang"
+      - company: University of Chicago, Department of Astronomy & Astrophysics
+        position: Graduate Research Assistant
+        location: Chicago, IL, USA
+        start_date: 2005-09
+        end_date: 2010-08
+        summary: "Advisor: Andrey V. Kravtsov"
+      - company: University of Michigan, Department of Physics
+        position: Undergraduate Research Assistant
+        location: Ann Arbor, MI, USA
+        start_date: 2003-09
+        end_date: 2004-04
+        summary: "Advisor: Tim A. McKay"
+
+
+    Research Interests:
+      - bullet: "Computational, theoretical, and statistical modeling of galaxy clusters, groups and massive galaxies, and their observational signatures in X-ray and microwave"
+      - bullet: "Galaxy clusters and groups as cosmological probes"
+      - bullet: "Physical processes in the intracluster medium"
+      - bullet: "Diffuse emission from the intergalactic medium and the circumgalactic medium"
+      - bullet: "Astronomical software development"
+
+    Grants and Allocations:
+      - bullet: "Chandra Archival Proposal, Cycle 25, \"Constraining S<sub>8</sub> with X-ray Angular Power Spectrum of Galaxy Clusters\", USD 81k (PI)"
+      - bullet: "XSEDE Computing Research Allocation TG-AST190003, \"Simulating Cosmic Weather in Galaxy Clusters\", 45k node hours (PI)"
+
+    Leadership:
+      - bullet: "Chair, Local Organizing Committee, \"Baryons in the Universe\" workshop, Nagoya, Japan, 05/2027"
+      - bullet: "Lead, simulation and theory component, XRISM Key Project proposal (led by Prof. Naomi Ota)"
+      - bullet: "Lead developer, Baryon Pasting code; Baryon Factory effort applying Baryon Pasting to multiple simulation suites (Backlight, AGORA, PINOCCHIO, Mucho-Uchuu) and to the Local Volume Complete Cluster Survey (LoVoCCS)"
+      - bullet: "Lead, CAMELS X-ray circumgalactic-medium analysis"
+      - bullet: "Sprint Coordinator, LSST Dark Energy Science Collaboration, 07/2024–10/2026"
+
+    Publication Summary:
+      - bullet: "62 refereed journal papers, of which 14 first-author and 8 student-led; citations 4694, h-index 35 (Google Scholar, October 2026). See the [publications page](/publications/)."
+
+    Mentoring and Teaching:
+      - bullet: "Co-supervised 15 undergraduate and graduate students with Prof. Daisuke Nagai (Yale University), Prof. Nico Cappelluti (University of Miami), and Dr. Ákos Bogdán (Center for Astrophysics | Harvard & Smithsonian). Languages of instruction: English and Mandarin."
+      - bullet: "**Graduate students:** Naomi Gluck, Yale Physics (2022–present), differentiable Baryon Pasting; Han Aung, Yale Physics (2015–2017); Camille Avestruz, Yale Physics (2014–2016), now Assistant Professor, University of Michigan; Kaylea Nelson, Yale Astronomy (2013–2015), now Director, Arts & Sciences Research Computing, Yale Center for Research Computing; Joshua Burt, Yale Physics (2014–2015); Benjamin Elder, Yale Physics (2012–2013)"
+      - bullet: "**Undergraduate and post-baccalaureate students:** Amanda Butler Contreras, Yale (2020–2022); Luis Fernando Machado, Yale (2016–2017) and post-baccalaureate (2020–2021); Mehika Patel, Yale (2022); Guanhua Chen, Miami (2019); Emil Öhman, Yale (2015–2017); Mari Kawakatsu, Yale (2016–2017); Julia Menzel, Yale (2015–2016); Christopher Cappiello, Yale (2013–2015), DeForest Pioneer Prize in Physics 2015; Maya Fishbach, Yale (2013–2015), Howard L. Schultz Prize in Physics 2015; Hendrik Kits van Heyningen, Yale (2013–2014), DeForest Pioneer Prize in Physics 2014; Dan Steinbrook, Yale (2012); Elizabeth Peng, Yale (2011–2012)"
+      - bullet: "Graduate Teaching Assistant, University of Chicago, 2004–2005, 2007"
+
+    Scientific Collaborations:
+      - bullet: "Member, LSST Dark Energy Science Collaboration, 2017–present"
+      - bullet: "External Collaborator, Euclid Collaboration, 2025–present"
+      - bullet: "Provisional Member, CMB-S4 Collaboration, 2022–2025"
+      - bullet: "Active Member, FornaX Collaboration"
+      - bullet: "Member, OLIMPO Team"
+      - bullet: "Science Working Group Member, ICM and CGM, Line Emission Mapper mission"
+      - bullet: "Science Working Group Member, NewAthena"
+
+    Selected Invited Talks:
+      - bullet: "2026/10: \"Dynamics of Cosmic Structures\", Zhejiang University, Hangzhou, China"
+      - bullet: "2026/08: \"JSPS Core-to-Core XRISM Workshop for Young Researchers\", Saitama University, Saitama, Japan"
+      - bullet: "2026/08: \"Dynamics of Galaxy Clusters Workshop\", Tokyo University of Science, Tokyo, Japan"
+      - bullet: "2026/06: Nagoya University, Nagoya, Japan, Seminar"
+      - bullet: "2026/01: Nara Women’s University, Nara, Japan, Seminar"
+      - bullet: "2025/11: Osaka University, Osaka, Japan, Seminar"
+      - bullet: "2024/11: Ohio State University, Columbus, OH, CCAPP Seminar"
+      - bullet: "2023/08: CMB-S4 Collaboration Meeting, Plenary Session"
+      - bullet: "2022/10: University of Minnesota, Minneapolis, MN, Cosmology Seminar"
+      - bullet: "2022/01: Center for Astrophysics, Cambridge, MA, High Energy Astrophysics Seminar"
+      - bullet: "2021/10: Boise State University, Boise, Idaho, Computing Colloquium"
+      - bullet: "2019/06: INAF-OAS, Bologna, Italy, Cluster Talk"
+      - bullet: "2017/09: Yale University, CT, USA, Astronomy Colloquium"
+      - bullet: "2017/02: Rochester Institute of Technology, Rochester, NY, USA, Astrophysics Colloquium"
+      - bullet: "2017/01: Kavli Institute for the Physics and Mathematics of the Universe, Kashiwa, Japan, Astrophysics Seminar"
+      - bullet: "2017/01: Academia Sinica Institute of Astronomy and Astrophysics, Taipei, Taiwan, Special Seminar"
+      - bullet: "2016/01: Shanghai Astronomical Observatory, Shanghai, China, Special Seminar"
+      - bullet: "2016/01: Kavli Institute for Astronomy and Astrophysics, Peking University, Beijing, Lunch Seminar"
+      - bullet: "2015/09: Kavli Institute for the Physics and Mathematics of the Universe, Kashiwa, Japan, Astrophysics Lunch Talk"
+      - bullet: "2015/03: University of Hong Kong, Hong Kong, Physics Seminar"
+      - bullet: "2014/03: University of Michigan, Ann Arbor, MI, USA, Cluster Seminar"
+      - bullet: "2013/10: Brown University, Providence, RI, USA, Astrophysics Seminar"
+      - bullet: "2012/08: Shanghai Astronomical Observatory, Shanghai, China, Cosmology Seminar"
+      - bullet: "2012/04: Yale University, New Haven, CT, USA, Cosmology Seminar"
+      - bullet: "2010/03: University of Colorado, Boulder, CO, USA, Cluster Seminar"
+
+    Conference and Workshop Presentations:
+      - bullet: "2025/10: \"XRISM International Conference 2025\", Kyoto, Japan"
+      - bullet: "2025/09: \"CL2025: 1st East Asian Workshop on Galaxy Clusters\", ASIAA, Taipei, Taiwan"
+      - bullet: "2025/07: \"Cosmic Ecosystems\", Perimeter Institute for Theoretical Physics, Waterloo, Ontario, Canada"
+      - bullet: "2025/07: \"Tracing Cosmic Evolution with Galaxy Clusters V\", Sexten Center for Astrophysics, Sesto, Italy"
+      - bullet: "2025/06: \"mm Universe 2025\", University of Chicago, Chicago, Illinois, USA"
+      - bullet: "2025/05: \"Expanding the boundaries of dark matter halo\", Shanghai Jiaotong University, Shanghai, China"
+      - bullet: "2024/12: \"Cosmology and Galaxy Astrophysics with Simulations & Machine Learning\", Flatiron Institute, NY, USA"
+      - bullet: "2024/09: \"First eROSITA International Conference\", MPE, Garching, Germany"
+      - bullet: "2024/08: \"Multiphase Madness CGM Workshop\", Center for Astrophysics, Cambridge, MA"
+      - bullet: "2024/07: \"EAS Meeting 2024\", Padova, Italy"
+      - bullet: "2023/07: \"CMB-S4 Summer Collaboration Meeting 2023\", SLAC, Menlo Park, CA"
+      - bullet: "2022/12: \"CAMELS Workshop\", Flatiron Institute, NY, USA"
+      - bullet: "2022/06: \"AGN Feeding and Feedback II\", Sexten Center for Astrophysics, Sesto, Italy"
+      - bullet: "2022/04: Galaxy Cluster Symposium, STSci, Baltimore, MD, USA"
+      - bullet: "2019/06: XMM Workshop on Extended X-ray Sources, ESAC, Madrid, Spain"
+      - bullet: "2019/01: 233rd AAS meeting, Seattle, WA, USA"
+      - bullet: "2018/12: \"Miami 2018: Topical Physics Conference\", Fort Lauderdale, FL, USA"
+      - bullet: "2018/10: \"Accretion Histories of AGN Workshop\", Miami, FL, USA"
+      - bullet: "2018/07: \"Alpine Cosmology Workshop 2018\", Alagna Valsesia, Italy"
+      - bullet: "2018/06: \"AGN Feeding and Feedback\", Sexten Center for Astrophysics, Sesto, Italy"
+      - bullet: "2017/08: \"From Chandra to Lynx: Taking the Sharpest X-ray Vision Fainter and Farther\", Cambridge, MA, USA"
+      - bullet: "2016/12: \"Galaxy clusters: Physics Laboratories and Cosmological Probes\", Cambridge, UK"
+      - bullet: "2015/06: \"ICM Physics and Modelling\", Max Planck Institute for Astrophysics, Garching, Germany"
+      - bullet: "2015/03: \"Astroparticle View of Galaxy Clusters\", Hiroshima University, Hiroshima, Japan"
+      - bullet: "2015/03: \"SnowCluster 2015\", Snowmass, UT, USA"
+      - bullet: "2014/06: \"Cluster Paris 2014\", Paris, France"
+      - bullet: "2013/03: \"SnowCluster 2013\", Snowmass, UT, USA"
+      - bullet: "2012/11: Galaxy Cluster Workshop, Ringberg, Germany"
+      - bullet: "2012/08: 28th IAU General Assembly, Beijing, China"
+      - bullet: "2012/06: 220th AAS Meeting, Anchorage, AK, USA"
+      - bullet: "2012/03: \"Turbulence in Cosmic Structure Formation\", ASU, Tempe, AZ, USA"
+      - bullet: "2011/09: \"Cosmology with X-ray and SZE Observations of Galaxy Clusters\", Huntsville, AL, USA"
+      - bullet: "2011/03: \"Astrophysics and Cosmology with Galaxy Clusters\", KITP, Santa Barbara, CA, USA"
+      - bullet: "2010/07: \"From Massive Galaxy Formation to Dark Energy\", IPMU, Kashiwa, Chiba, Japan"
+      - bullet: "2010/06: 10th \"Great Lakes Cosmology Workshop\", Chicago, IL, USA"
+      - bullet: "2010/01: 215th AAS meeting, Washington, DC, USA"
+      - bullet: "2007/02: \"Clusters of Galaxies as Cosmological Probes\", Aspen, CO, USA"
+
+    Service:
+      - bullet: "Referee for Nature Communications, The Astrophysical Journal, Monthly Notices of the Royal Astronomical Society, Astronomy & Astrophysics, Research in Astronomy & Astrophysics, and RAS Techniques and Instruments"
+      - bullet: "Review Panelist, National Science Foundation – Astronomy and Astrophysics Research Grants, 2023"
+      - bullet: "Peer Reviewer, Chandra Cycle 20 Peer Review, 2018"
+      - bullet: "Organizer, Cosmology Seminar at Yale University, 2012–2014"
+
+    Professional Societies:
+      - bullet: "Member, American Astronomical Society"
+      - bullet: "Member, International Astronomical Union"
