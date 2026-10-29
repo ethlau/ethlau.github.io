@@ -1,0 +1,9 @@
+# Social links shown on the about page (and in search). For the list of supported keys, see
+# https://github.com/george-gca/jekyll-socials
+cv_pdf: /files/CV.pdf # path to your CV PDF file
+email: erwin.lau@cfa.harvard.edu # your email address
+scholar_userid: Uzv1f1oAAAAJ # your Google Scholar ID
+orcid_id: 0000-0001-8914-8885 # your ORCID ID
+github_username: ethlau # your GitHub user name
+x_username: tinhay # your X (formerly Twitter) user name
+rss_icon: false
