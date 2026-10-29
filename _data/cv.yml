@@ -91,7 +91,6 @@ cv:
       - bullet: "XSEDE Computing Research Allocation TG-AST190003, \"Simulating Cosmic Weather in Galaxy Clusters\", 45k node hours (PI)"
 
     Leadership:
-      - bullet: "Chair, Local Organizing Committee, \"Baryons in the Universe\" workshop, Nagoya, Japan, 05/2027"
       - bullet: "Lead, simulation and theory component, XRISM Key Project proposal (led by Prof. Naomi Ota)"
       - bullet: "Lead developer, Baryon Pasting code; Baryon Factory effort applying Baryon Pasting to multiple simulation suites (Backlight, AGORA, PINOCCHIO, Mucho-Uchuu) and to the Local Volume Complete Cluster Survey (LoVoCCS)"
       - bullet: "Lead, CAMELS X-ray circumgalactic-medium analysis"
